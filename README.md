@@ -16,6 +16,5 @@
 - **Thư viện:** Axios (API), Firebase SDK.
 
 ## 🚀 Cài đặt
-1. Clone dự án: `git clone <link-github-cua-ban>`
-2. Cài thư viện: `npm install`
-3. Chạy App: `npx expo start`
+1. Cài thư viện: `npm install`
+2. Chạy App: `npx expo start`
