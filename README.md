@@ -54,5 +54,19 @@ Email tài khoản: admin@gmail.com
 Mật khẩu: 123456
 
 # Một số hình ảnh minh họa hệ thống 
+### Giao diện đăng ký 
 <img width="350" height="650" alt="dangky" src="https://github.com/user-attachments/assets/e50df967-4ada-44a5-bf69-f67e1c726b89" />
+### Giao diện đăng nhập
+<img width="946" height="2048" alt="dangnhap" src="https://github.com/user-attachments/assets/f8d3871c-c222-43a4-9e39-375712480471" />
+### Giao diện trang chủ 
+<img width="946" height="2048" alt="trangchu" src="https://github.com/user-attachments/assets/62756e7d-be02-49d7-a595-c39e7a55a4ef" />
+### Giao diện trang cá nhân
+<img width="946" height="2048" alt="trangcanhan" src="https://github.com/user-attachments/assets/b4112e31-1f50-42ba-8cf0-94020f230ca5" />
+### Giao diện Phim chi tiết
+<img width="946" height="2048" alt="phim_chi_tiet" src="https://github.com/user-attachments/assets/116a3a8b-ff2b-4aa6-a2f3-7fd3ff89c3e4" />
+### Giao diện đặt ghế ngồi
+<img width="946" height="2048" alt="chon_ghe_ngoi" src="https://github.com/user-attachments/assets/c27197a9-031e-49bc-ba06-f0ad79dc94f5" />
+### Giao diện thanh toán
+<img width="946" height="2048" alt="thanhtoan" src="https://github.com/user-attachments/assets/011f8134-79f2-431f-a50e-9839410f6e9b" />
+
 
