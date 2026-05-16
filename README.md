@@ -54,5 +54,5 @@ Email tài khoản: admin@gmail.com
 Mật khẩu: 123456
 
 # Một số hình ảnh minh họa hệ thống 
-<img width="946" height="2048" alt="dangky" src="https://github.com/user-attachments/assets/e50df967-4ada-44a5-bf69-f67e1c726b89" />
+<img width="350" height="650" alt="dangky" src="https://github.com/user-attachments/assets/e50df967-4ada-44a5-bf69-f67e1c726b89" />
 
