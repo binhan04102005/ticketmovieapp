@@ -39,19 +39,20 @@ Hệ thống kết nối trực tiếp với nguồn dữ liệu phim quốc t�
 ### 2. Các bước cài đặt
 Bật Terminal tại thư mục bạn muốn lưu project và chạy các lệnh sau:
 
-# Di chuyển vào thư mục dự án
+## Di chuyển vào thư mục dự án
 cd MovieTicketApp
 
-# Cài đặt các gói thư viện phụ thuộc
+## Cài đặt các gói thư viện phụ thuộc
 npm install
-# Chạy app
+## Chạy app
 npx expo start
 
-# Bạn có thể sử dụng tài khoản thử nghiệm dưới đây để đăng nhập thẳng vào hệ thống mà không cần qua bước đăng ký:
+## Bạn có thể sử dụng tài khoản thử nghiệm dưới đây để đăng nhập thẳng vào hệ thống mà không cần qua bước đăng ký:
 
 Email tài khoản: admin@gmail.com
 
 Mật khẩu: 123456
 
 # Một số hình ảnh minh họa hệ thống 
+<img width="946" height="2048" alt="dangky" src="https://github.com/user-attachments/assets/e50df967-4ada-44a5-bf69-f67e1c726b89" />
 
