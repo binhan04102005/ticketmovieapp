@@ -1,7 +1,7 @@
 # 🎬 MovieTicketApp - Ứng dụng đặt vé xem phim trên nền tảng di động
 
 ## 📝 Giới thiệu hệ thống
-**MovieTicketApp** là một ứng dụng di động đặt vé xem phim hiện đại, mang lại trải nghiệm mượt mà và đậm chất điện ảnh cho người dùng thông qua ngôn ngữ thiết kế **Dark Mode**. 
+MovieTicketApp là một ứng dụng di động đặt vé xem phim hiện đại, mang lại trải nghiệm mượt mà và đậm chất điện ảnh cho người dùng thông qua ngôn ngữ thiết kế Dark Mode. 
 
 Hệ thống kết nối trực tiếp với nguồn dữ liệu phim quốc tế **TMDB API** để cập nhật liên tục các bộ phim đang chiếu. Điểm sáng của ứng dụng là tích hợp giải pháp kỹ thuật mô phỏng **sơ đồ ghế ngồi phối cảnh 3D trực quan**, cơ chế **đồng bộ trạng thái ghế ngồi theo thời gian thực** (Real-time synchronization) giúp tránh trùng lặp ghế, và tự động xuất **vé điện tử kèm mã QR Code** để đối soát giao dịch một cách bảo mật và nhanh chóng.
 
@@ -33,8 +33,8 @@ Hệ thống kết nối trực tiếp với nguồn dữ liệu phim quốc t�
 Để cài đặt và thiết lập môi trường chạy project dưới môi trường Local, hãy làm theo các bước sau:
 
 ### 1. Yêu cầu tiên quyết
-* Đã cài đặt **Node.js** (Phiên bản LTS khuyến nghị).
-* Đã cài đặt điện thoại cài sẵn app **Expo Go** (iOS/Android) hoặc trình giả lập (Simulator/Emulator).
+* Đã cài đặt Node.js (Phiên bản LTS khuyến nghị).
+* Đã cài đặt điện thoại cài sẵn app Expo go (iOS/Android) hoặc trình giả lập (Simulator/Emulator).
 
 ### 2. Các bước cài đặt
 Bật Terminal tại thư mục bạn muốn lưu project và chạy các lệnh sau:
@@ -42,9 +42,9 @@ Bật Terminal tại thư mục bạn muốn lưu project và chạy các lệnh
 # Di chuyển vào thư mục dự án
 cd MovieTicketApp
 
-# Cài đặt các gói thư viện phụ thuộc (Dependencies)
+# Cài đặt các gói thư viện phụ thuộc
 npm install
-
+# Chạy app
 npx expo start
 
 Bạn có thể sử dụng tài khoản thử nghiệm dưới đây để đăng nhập thẳng vào hệ thống mà không cần qua bước đăng ký:
