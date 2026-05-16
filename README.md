@@ -47,8 +47,11 @@ npm install
 # Chạy app
 npx expo start
 
-Bạn có thể sử dụng tài khoản thử nghiệm dưới đây để đăng nhập thẳng vào hệ thống mà không cần qua bước đăng ký:
+# Bạn có thể sử dụng tài khoản thử nghiệm dưới đây để đăng nhập thẳng vào hệ thống mà không cần qua bước đăng ký:
 
-Email tài khoản: binhan04102005@gmail.com
+Email tài khoản: admin@gmail.com
 
-Mật khẩu: binhan04102005
+Mật khẩu: 123456
+
+# Một số hình ảnh minh họa hệ thống 
+
